@@ -1,0 +1,119 @@
+/* Скидання стилів */
+@import url("reset.css");
+
+/* Основні стилі */
+/* * {
+	color: red;
+}
+
+p {
+	color: grey;
+} */
+
+a {
+	color: brown;
+}
+
+li {
+	color: green;
+}
+
+.chasnok {
+	color: blueviolet;
+}
+
+#some-id {
+	color: rgb(0, 72, 255);
+}
+
+div.tea {
+	color: rgb(28, 9, 112);
+}
+
+div.avokado {
+	color: rgb(76, 11, 136);
+}
+
+.page-text.page {
+	color: rgb(174, 15, 15);
+}
+
+.morkva,
+.morkva-teg {
+	color: rgb(168, 96, 96);
+}
+
+.page-text a {
+	color: greenyellow;
+}
+
+.bobi a {
+	color: yellow;
+}
+
+.bobi .bobi-text {
+	color: rgb(236, 143, 4);
+}
+
+.fruit * {
+	color: rgb(124, 246, 246);
+}
+
+.apple > p {
+	color: blueviolet;
+}
+
+.apple ~ p {
+	color: rgb(101, 9, 9);
+}
+
+.apple + p {
+	color: red;
+}
+
+[class*="-orange"] {
+	color: rgba(215, 155, 14, 0.934);
+}
+
+.fruit-orange {
+	color: rgb(75, 42, 165);
+}
+
+p.orange-p {
+	color: rgb(62, 14, 14);
+}
+
+.kivi {
+	color: rgb(0, 0, 101);
+}
+
+.kivi ~ p {
+	color: rgb(92, 92, 247);
+}
+
+.banana {
+	color: aquamarine;
+}
+
+.banana + p {
+	color: blueviolet;
+}
+
+.granat > p {
+	color: red;
+}
+
+.nuts.nuts-yo {
+	color: blue;
+}
+
+p.milk {
+	color: rgb(234, 0, 255);
+}
+
+.container .oil {
+	color: green;
+}
+
+
+
